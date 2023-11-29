@@ -1,0 +1,9 @@
+[user]
+	name = mac
+	email = mac@net.example.com
+[push]
+	default = simple
+[crendential]
+	helper = store
+[credential]
+	helper = store
